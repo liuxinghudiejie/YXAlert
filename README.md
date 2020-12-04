@@ -1,3 +1,4 @@
+
 # YangAlert
 
 [![CI Status](https://img.shields.io/travis/394758747@qq.com/YangAlert.svg?style=flat)](https://travis-ci.org/394758747@qq.com/YangAlert)
@@ -22,8 +23,12 @@ pod 'YangAlert'
 
 ## Author
 
-394758747@qq.com, 3304567487@qq.com
+yang
 
 ## License
 
 YangAlert is available under the MIT license. See the LICENSE file for more info.
+
+# YXAlert
+### 这是一个提示框
+

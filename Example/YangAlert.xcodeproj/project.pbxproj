@@ -63,10 +63,10 @@
 		7D6122290CFFC4F45E745F23 /* Pods-YangAlert_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YangAlert_Example.debug.xcconfig"; path = "Target Support Files/Pods-YangAlert_Example/Pods-YangAlert_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		995F80ED7F1969FFE4CFF60A /* Pods-YangAlert_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YangAlert_Tests.release.xcconfig"; path = "Target Support Files/Pods-YangAlert_Tests/Pods-YangAlert_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		AEEDBDB07404E13FBB8E6D49 /* YangAlert.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YangAlert.podspec; path = ../YangAlert.podspec; sourceTree = "<group>"; };
-		C29ADE4012C507C7DBE7407E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		AEEDBDB07404E13FBB8E6D49 /* YangAlert.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YangAlert.podspec; path = ../YangAlert.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C29ADE4012C507C7DBE7407E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E126290A22C040663AD2B49F /* Pods_YangAlert_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YangAlert_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2BE4DED1A2551E7FD5FCDE4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E2BE4DED1A2551E7FD5FCDE4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,7 +193,6 @@
 				193339FA544DBABEC4949F51 /* Pods-YangAlert_Tests.debug.xcconfig */,
 				995F80ED7F1969FFE4CFF60A /* Pods-YangAlert_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
