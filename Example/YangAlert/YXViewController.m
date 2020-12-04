@@ -7,7 +7,7 @@
 //
 
 #import "YXViewController.h"
-
+#import "YXAlert.h"
 @interface YXViewController ()
 
 @end
@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    [YXAlert showAlert:@"提示" message:@"这是一个提示框2" showView:self];
 }
 
 - (void)didReceiveMemoryWarning

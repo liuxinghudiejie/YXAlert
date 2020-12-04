@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/394758747@qq.com/YangAlert'
+  s.homepage         = 'https://github.com/liuxinghudiejie/YXAlert.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '394758747@qq.com' => '3304567487@qq.com' }
-  s.source           = { :git => 'https://github.com/394758747@qq.com/YangAlert.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liuxinghudiejie/YXAlert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
