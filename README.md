@@ -1,10 +1,10 @@
 
 # YXAlert
 ### 这是一个提示框
-[![CI Status](https://img.shields.io/travis/394758747@qq.com/YangAlert.svg?style=flat)](https://travis-ci.org/394758747@qq.com/YangAlert)
-[![Version](https://img.shields.io/cocoapods/v/YangAlert.svg?style=flat)](https://cocoapods.org/pods/YangAlert)
-[![License](https://img.shields.io/cocoapods/l/YangAlert.svg?style=flat)](https://cocoapods.org/pods/YangAlert)
-[![Platform](https://img.shields.io/cocoapods/p/YangAlert.svg?style=flat)](https://cocoapods.org/pods/YangAlert)
+[![CI Status](https://img.shields.io/travis/394758747@qq.com/YXAlert.svg?style=flat)](https://travis-ci.org/394758747@qq.com/YXAlert)
+[![Version](https://img.shields.io/cocoapods/v/YXAlert.svg?style=flat)](https://cocoapods.org/pods/YXAlert)
+[![License](https://img.shields.io/cocoapods/l/YXAlert.svg?style=flat)](https://cocoapods.org/pods/YXAlert)
+[![Platform](https://img.shields.io/cocoapods/p/YXAlert.svg?style=flat)](https://cocoapods.org/pods/YXAlert)
 
 ## Example
 
